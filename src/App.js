@@ -34,7 +34,6 @@ function App() {
       className: "custom-marker-cluster",
     });
   };
-cl
 
   return (
     <MapContainer center={[27.6906912,85.3174936]} zoom={14} minZoom={2.78}>
